@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
 </div>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ggmaros&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views">
+</p>
+
 <!-- Title -->
 <div align="center">
   <h1 style="font-size: 3.5em; font-weight: 800; background: linear-gradient(120deg, #2196F3, #4CAF50); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
@@ -97,10 +101,4 @@
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling" width="100%">
-  <h3 style="font-size: 2em; font-weight: 700; background: linear-gradient(120deg, #2196F3, #4CAF50); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Thank you for visiting! Let's connect and build something amazing together! 🚀
-  </h3>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=ggmaros&label=Profile%20views&color=2196F3&style=for-the-badge" alt="Profile Views">
-  </p>
 </div>
