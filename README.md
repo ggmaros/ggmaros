@@ -43,6 +43,14 @@
 *   **Motion Graphics & Interactive Prototyping:** Bringing Interfaces to Life
 *   **Design Systems & Component Libraries:** Building Scalable & Consistent Experiences
 
+## ⚙️ How I Elevate Experiences:
+
+*   **User-Centricity at the Core:** Every decision is guided by a deep understanding of user needs, behaviors, and pain points.
+*   **Data-Driven Optimization:** Analytics, A/B testing, and user feedback are integral to my iterative design process.
+*   **Code-Informed Design:** My development expertise allows me to create designs that are both visually stunning and technically feasible.
+*   **Cutting-Edge Toolkit:** I stay at the forefront of design and development trends, mastering the latest tools and technologies.
+*   **Results-Oriented Approach:** My focus is on creating solutions that drive tangible business outcomes, such as increased engagement, conversions, and customer satisfaction.
+
 <!-- Tech Stack -->
 <div align="left">
   <h2 style="font-size: 2.5em; font-weight: 700; background: linear-gradient(120deg, #00C853, #64DD17); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
@@ -50,35 +58,30 @@
   </h2>
 </div>
 
-<!--
 <img src="https://skillicons.dev/icons?size=48&i=react,nextjs,angular,vue,typescript,tailwind,redux,python,php,java,nodejs,express,mongodb,laravel,mysql,postgresql,redis,docker,kubernetes,git,aws,jenkins,figma,vscode,postman,firebase,vercel,wordpress&size=16" />
--->
 
+
+<!--
 <div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
 
   
-  <!-- Frontend -->
   <h3 style="color: #FF4088;">Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,typescript,tailwind,redux" />
   
-  <!-- Backend -->
   <h3 style="color: #00C853;">Backend</h3>
   <img src="https://skillicons.dev/icons?i=python,php,java,nodejs,express,mongodb,laravel,mysql,postgresql,redis" />
   
-  <!-- DevOps -->
   <h3 style="color: #2196F3;">DevOps & Cloud</h3>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,aws,jenkins" />
   
-  <!-- Additional Tools -->
   <h3 style="color: #FFC107;">Additional Tools</h3>
   <img src="https://skillicons.dev/icons?i=figma,vscode,postman,firebase,vercel" />
     
-  <!-- CMS -->
   <h3 style="color: #9C27B0;">CMS</h3>
   <img src="https://skillicons.dev/icons?i=wordpress,shopify,magento" />
   
 </div>
-
+-->
 
 <!-- GitHub Stats -->
 
