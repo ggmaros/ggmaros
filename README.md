@@ -45,7 +45,7 @@
 *   **Motion Graphics & Interactive Prototyping:** Bringing Interfaces to Life
 *   **Design Systems & Component Libraries:** Building Scalable & Consistent Experiences
 
-## ⚙️ How I Elevate Experiences:
+## ⚙️ How I Elevate Experiences
 
 *   **User-Centricity at the Core:** Every decision is guided by a deep understanding of user needs, behaviors, and pain points.
 *   **Data-Driven Optimization:** Analytics, A/B testing, and user feedback are integral to my iterative design process.
@@ -60,7 +60,7 @@
   </h2>
 </div>
 
-<img src="https://skillicons.dev/icons?size=48&i=react,nextjs,angular,vue,typescript,tailwind,redux,python,php,java,nodejs,express,mongodb,laravel,mysql,postgresql,redis,docker,kubernetes,git,aws,jenkins,figma,vscode,postman,firebase,vercel,wordpress&size=16" />
+<img src="https://skillicons.dev/icons?size=48&i=react,nextjs,angular,vue,javascript,typescript,tailwind,redux,python,php,java,nodejs,express,mongodb,laravel,mysql,postgresql,redis,docker,kubernetes,git,aws,jenkins,figma,vscode,postman,firebase,vercel,wordpress&size=16" />
 
 
 <!--
