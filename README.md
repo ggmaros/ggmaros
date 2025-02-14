@@ -16,7 +16,7 @@
 
 <!-- Animated Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Tech+Innovator;Next.js+%7C+React+%7C+TypeScript+Enthusiast;Building+the+Future+of+Web+Applications;Python+%7C+PHP+%7C+Java+%7C+Backend+Expert;Cloud+Architecture+Specialist;UI%2FUX+Design+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Tech+Innovator;Next.js+%7C+React+%7C+TypeScript+Enthusiast;Hands-on+Experience+with+Angular+and+Vue;Building+the+Future+of+Web+Applications;Python+%7C+PHP+%7C+Java+%7C+Backend+Expert;Cloud+Architecture+Specialist;UI%2FUX+Design+Enthusiast" alt="Typing SVG">
 </p>
 
 <!-- About Section -->
