@@ -36,6 +36,13 @@
 
 </div>
 
+## 🎯 Core Competencies
+
+*   **Full-Stack UI/UX Design & Development:** From Concept to Deployment
+*   **Customer Experience (CX) Architecture:** Designing Holistic & Delightful Journeys
+*   **Motion Graphics & Interactive Prototyping:** Bringing Interfaces to Life
+*   **Design Systems & Component Libraries:** Building Scalable & Consistent Experiences
+
 <!-- Tech Stack -->
 <div align="left">
   <h2 style="font-size: 2.5em; font-weight: 700; background: linear-gradient(120deg, #00C853, #64DD17); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
@@ -43,7 +50,12 @@
   </h2>
 </div>
 
+<!--
+<img src="https://skillicons.dev/icons?size=48&i=react,nextjs,angular,vue,typescript,tailwind,redux,python,php,java,nodejs,express,mongodb,laravel,mysql,postgresql,redis,docker,kubernetes,git,aws,jenkins,figma,vscode,postman,firebase,vercel,wordpress&size=16" />
+-->
+
 <div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
+
   
   <!-- Frontend -->
   <h3 style="color: #FF4088;">Frontend</h3>
