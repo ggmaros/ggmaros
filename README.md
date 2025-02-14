@@ -28,15 +28,10 @@
 
 <div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
   
-- 🔭 Building **[Tech Blog](https://blog.coding-dynasty.com)** - Sharing knowledge & experiences
 - 🌱 Mastering the **MERN Stack** ecosystem and modern web architectures
-- 👨‍💻 Check out my work at [My Portfolio](https://portfolio.coding-dynasty.com/#projects)
-- 📝 Regular writer at [Coding Dynasty Blog](https://blog.coding-dynasty.com)
 - 💡 Passionate about clean code, scalable architecture & user experience
 - 🎯 Specialized in performance optimization and SEO
-- 🌐 Contributing to open-source projects
 - 🎓 Continuous learner & tech mentor
-- 📫 Let's connect: **contact@coding-dynasty.com**
 - ⚡ Fun Fact: _Code is poetry, and I'm a poet_ 🎭
 
 </div>
