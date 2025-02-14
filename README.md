@@ -1,7 +1,9 @@
 <!-- Banner -->
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
 </div>
+-->
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ggmaros&label=Profile%20views&color=2196F3&style=flat-square" alt="Profile Views">
@@ -109,6 +111,8 @@
 -->
 
 <!-- Footer -->
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling" width="100%">
 </div>
+-->
